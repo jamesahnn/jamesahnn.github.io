@@ -42,7 +42,8 @@ nav {
   top: 0;
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
   margin-right: 30px;
   margin-left: 30px;
   margin-bottom: 0px;
@@ -112,7 +113,8 @@ nav {
   background-color: #e6f3f6;
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
 }
 
 .table {
@@ -147,7 +149,8 @@ nav {
 
 .box .container h1 {
   font-size: 64px;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
   margin: 0;
   margin-bottom: 2vw;
 }
@@ -165,8 +168,8 @@ nav {
 
 .container p {
   color: #636363;
-  font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
   line-height: 25px;
 }
 
@@ -178,7 +181,8 @@ nav {
 .table2 .container .info {
   margin-left: 75px;
   line-height: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
 }
 
 .table2 {
