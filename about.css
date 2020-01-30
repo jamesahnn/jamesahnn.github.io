@@ -159,7 +159,7 @@ h2 {
 }
 
 .picture {
-  border-radius: 50px;
+  border-radius: 50%;
   display: table-cell;
 }
 
