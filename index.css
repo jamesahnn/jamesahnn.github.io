@@ -171,7 +171,7 @@ h3 {
   height: 78px;
   margin-top: 10px;
   margin-bottom: 30px;
-  font-family:'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
@@ -235,7 +235,7 @@ h3 {
 .bottom {
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
   justify-content: space-between;
   width: 100%;
   margin-top: 100px;
