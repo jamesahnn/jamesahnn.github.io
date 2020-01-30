@@ -42,7 +42,8 @@ nav {
   top: 0;
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
   margin-right: 30px;
   margin-left: 30px;
   margin-bottom: 0px;
@@ -147,7 +148,7 @@ h1 {
 
 h2 {
   font-weight: 400;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
   margin-top: 70px;
   margin-bottom: 20px;
   color: #9DCAD8;
@@ -156,7 +157,8 @@ h2 {
 .container2 {
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
 }
 
 .picture {
@@ -179,7 +181,8 @@ h2 {
 .bottom {
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
   justify-content: space-between;
   width: 100%;
   margin-top: 100px;
