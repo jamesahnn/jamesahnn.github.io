@@ -165,8 +165,14 @@ h2 {
 
 .info {
   display: inline-block;
+  line-height: 30px;
   color: #636363;
   margin-left: 5%;
+}
+
+.info h2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .bottom {
