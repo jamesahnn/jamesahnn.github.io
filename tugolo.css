@@ -117,12 +117,6 @@ nav {
   font-family: 'Lato', sans-serif;
 }
 
-.table {
-  display: table;
-  width: 100%;
-  align-items: center;
-}
-
 .box .container {
   display: flex;
   align-items: center;
@@ -193,7 +187,7 @@ nav {
 
 .table2 .info {
   float: right;
-  display: flex;
+  display: block;
   align-items: center;
   width: 50%;
   margin-top: 20px;
