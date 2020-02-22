@@ -185,6 +185,32 @@ h3 {
   font-size: 18px;
 }
 
+.icons {
+  padding: 0;
+  margin-top: 15px;
+}
+
+.icons::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.icons li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
 .project {
   display: flex;
   align-items: center;
