@@ -249,7 +249,7 @@ ul {
   opacity: 0.3;
 }
 
-.content:hover .info {
+.content:hover .text {
   opacity: 1;
 }
 
