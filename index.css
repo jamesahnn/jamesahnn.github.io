@@ -210,7 +210,6 @@ h3 {
   width: 50%;
   height: auto;
   transition: .5s ease;
-  backface-visibility: hidden;
 }
 
 .info {
