@@ -1,3 +1,36 @@
+@media (min-width: 768px){
+  .top {
+    max-width: 800px;
+  }
+}
+
+@media (min-width: 1000px){
+  .top {
+    max-width: 1100px;
+  }
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding-top: 0;
+  line-height: 3vh;
+  padding-right: 30px;
+}
+
+table h2 {
+  font-weight: 400;
+  font-size: 2vh;
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+
+table p {
+  margin-top: 5px;
+}
+
 .container h2 {
   color: #99BEF5;
   font-weight: 400;
@@ -13,18 +46,23 @@
   font-family: 'Lato', sans-serif;
 }
 
-.box .container {
+.box .top {
   display: flex;
   align-items: center;
+  margin: auto;
+}
+
+.box .top .mockup {
+  text-align: right;
 }
 
 .container h2 {
   margin-bottom: 15px;
 }
 
-.box .container .mockup img {
-  width: 500px;
-  /* background: red; */
+.box .top .mockup {
+  padding: 0px;
+  margin: 0px;
 }
 
 .chart img {
