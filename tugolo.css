@@ -194,6 +194,13 @@ table p {
   align-items: center;
 }
 
+.table2 .container .info_right {
+  margin-right: 75px;
+  line-height: 30px;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
+}
+
 .table2 .container .info {
   margin-left: 75px;
   line-height: 30px;
