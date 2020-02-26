@@ -129,6 +129,28 @@ nav {
   /* background: blue; */
 }
 
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding-top: 0;
+  line-height: 3vh;
+  padding-right: 30px;
+}
+
+.column table h2 {
+  font-weight: 200;
+  font-size: 2vh;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  color: #000000;
+}
+
+table p {
+  margin-top: 5px;
+}
+
 .box .container .column .info {
   line-height: 30px;
   margin-bottom: 50px;
