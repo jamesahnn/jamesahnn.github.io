@@ -257,6 +257,7 @@ ul {
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
+  padding: 2px 16px;
 }
 
 .content:hover .image {
@@ -265,6 +266,44 @@ ul {
 
 .content:hover .text {
   opacity: 1;
+}
+
+.card {
+  transition: 0.4s;
+  width: 40%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.card img {
+  border-radius: 10px;
+}
+
+.card h2 {
+  margin-top: 5px;
+}
+
+.card p {
+  margin-bottom: 30px;
+}
+
+.card:hover .container {
+  opacity: 1;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card .container {
+  transition: .5s ease;
+  opacity: 0;
+  font-weight: 200;
+  font-family: 'Lato', sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  padding: 2px 16px;
 }
 
 .bottom {
