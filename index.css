@@ -159,6 +159,15 @@ h3 {
   margin-bottom: 15px;
 }
 
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flex > div {
+  text-align: left;
+}
+
 .intro {
   width: 255px;
   height: 58px;
