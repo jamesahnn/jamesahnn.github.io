@@ -102,6 +102,18 @@ table p {
   font-weight: 400;
 }
 
+.container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .container img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .info {
   display: inline-block;
   color: #636363;
@@ -115,29 +127,46 @@ table p {
   line-height: 25px;
 }
 
+.table2 video {
+  margin: auto;
+}
+
 .table2 .container {
   display: flex;
   align-items: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .table2 .container .info_right {
-  margin-right: 75px;
+  margin: auto;
   line-height: 30px;
   font-weight: 200;
   font-family: 'Lato', sans-serif;
 }
 
 .table2 .container .info {
-  margin-left: 75px;
+  margin: auto;
   line-height: 30px;
   font-weight: 200;
   font-family: 'Lato', sans-serif;
+}
+
+.table2 .container .info h2 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.table2 .container .info p {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .table2 {
   display: table;
   width: 100%;
   align-items: center;
+  margin: auto;
 }
 
 .table2 .info {
@@ -149,8 +178,38 @@ table p {
 }
 
 .table2 img {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin: auto;
+}
+
+.container .create img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.block {
+  background-color: #f6f6f6;
+  height: 250px;
+}
+
+.block .container {
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%)
+}
+
+.text_box {
+  margin-top: 80px;
+}
+
+.final img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .prototype {
@@ -162,18 +221,18 @@ table p {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .send_out img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 .takeaways {
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
