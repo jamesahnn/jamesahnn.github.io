@@ -81,6 +81,12 @@ b {
   color: black;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .box .container .column .info {
   line-height: 30px;
   margin-bottom: 50px;
