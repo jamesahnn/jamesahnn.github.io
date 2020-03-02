@@ -186,6 +186,12 @@ table p {
 .block {
   background-color: #f6f6f6;
   height: 250px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.problem {
+  margin-top: 80px;
 }
 
 .block .container {

@@ -60,6 +60,16 @@ table p {
   margin-bottom: 15px;
 }
 
+.diagram {
+  margin-top: 80px;
+  margin-bottom: 60px;
+}
+
+.diagram img {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
 .chart img {
   display: flex;
   margin-left: auto;
@@ -69,7 +79,8 @@ table p {
 }
 
 .quote {
-  margin-bottom: 30px;
+  margin-top: 80px;
+  margin-bottom: 60px;
   font-family: 'Lato', sans-serif;
 }
 
