@@ -46,6 +46,11 @@ table p {
   font-family: 'Lato', sans-serif;
 }
 
+.box .container .column img {
+  display: block;
+  margin-left: 0;
+}
+
 .box .container {
   display: flex;
   align-items: center;
