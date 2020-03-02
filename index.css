@@ -213,7 +213,7 @@ ul {
 .bottom {
   display: flex;
   align-items: center;
-  font-weight: 200;
+  font-weight: 400;
   font-family: 'Lato', sans-serif;
   justify-content: space-between;
   width: 100%;

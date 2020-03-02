@@ -77,6 +77,10 @@ table p {
   margin-top: 5px;
 }
 
+b {
+  color: black;
+}
+
 .box .container .column .info {
   line-height: 30px;
   margin-bottom: 50px;
@@ -116,7 +120,7 @@ table p {
 
 .container p {
   color: #636363;
-  font-weight: 200;
+  font-weight: 400;
   font-family: 'Lato', sans-serif;
   line-height: 25px;
 }
