@@ -50,11 +50,6 @@ body {
   /* background: blue; */
 }
 
-.box .container .column {
-  padding: 30px;
-  /* background: blue; */
-}
-
 table {
   border-collapse: collapse;
 }
@@ -95,7 +90,7 @@ img {
 }
 
 .box .container .column img {
-  width: 320px;
+  width: 620px;
   /* background: red; */
 }
 
