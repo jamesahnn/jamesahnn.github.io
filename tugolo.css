@@ -39,8 +39,10 @@ body {
   background-color: #e6f3f6;
   display: flex;
   align-items: center;
-  font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
 }
 
 .box .container {
@@ -62,7 +64,7 @@ td {
 
 .column table h2 {
   font-weight: 400;
-  font-size: 2vh;
+  font-size: 22px;
   margin-top: 3px;
   margin-bottom: 0px;
   color: #000000;
@@ -96,15 +98,24 @@ img {
 
 .box .container h1 {
   font-size: 64px;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
   margin: 0;
-  margin-bottom: 2vw;
 }
 
 .container h2 {
   color: #9DCAD8;
   font-weight: 400;
+}
+
+.container .column p {
+  color: #636363;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .container .container img {
@@ -121,8 +132,10 @@ img {
 
 .container p {
   color: #636363;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 20px;
   line-height: 25px;
 }
 
@@ -140,15 +153,19 @@ img {
 .table2 .container .info_right {
   margin: auto;
   line-height: 30px;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 20px;
 }
 
 .table2 .container .info {
   margin: auto;
   line-height: 30px;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 20px;
 }
 
 .table2 .container .info h2 {
@@ -157,8 +174,8 @@ img {
 }
 
 .table2 .container .info p {
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .table2 {

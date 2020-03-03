@@ -42,8 +42,9 @@ nav {
   top: 0;
   display: flex;
   align-items: center;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
   margin-right: 30px;
   margin-left: 30px;
   margin-bottom: 0px;
@@ -147,8 +148,9 @@ h1 {
 }
 
 h2 {
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
   margin-top: 70px;
   margin-bottom: 20px;
   color: #9DCAD8;
@@ -157,8 +159,10 @@ h2 {
 .container2 {
   display: flex;
   align-items: center;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  margin-top: 15vh;
 }
 
 .picture {
@@ -181,8 +185,9 @@ h2 {
 .bottom {
   display: flex;
   align-items: center;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
   justify-content: space-between;
   width: 100%;
   margin-top: 100px;

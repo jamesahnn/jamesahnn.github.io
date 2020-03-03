@@ -46,19 +46,24 @@ body {
 }
 
 h1 {
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
 }
 
 h2 {
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-size: 27px;
+  font-style: normal;
   margin-top: 30px;
 }
 
 h3 {
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 22px;
   margin-top: 10px;
   margin-bottom: 15px;
 }
@@ -85,9 +90,9 @@ h3 {
   height: 78px;
   margin-top: 10px;
   margin-bottom: 30px;
-  font-family: 'Lato', sans-serif;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 800;
   font-style: normal;
-  font-weight: bold;
   font-size: 50px;
 }
 
@@ -156,8 +161,9 @@ ul {
   position: absolute;
   bottom: 20px;
   left: 20px;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
@@ -202,8 +208,10 @@ ul {
 .card .container {
   transition: .5s ease;
   opacity: 0;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 200;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 20px;
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
@@ -213,8 +221,10 @@ ul {
 .bottom {
   display: flex;
   align-items: center;
+  font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-size: 20px;
   justify-content: space-between;
   width: 100%;
   margin-top: 100px;
