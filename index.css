@@ -207,7 +207,7 @@ ul {
 }
 
 .card img {
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .card h2 {
@@ -216,6 +216,7 @@ ul {
 
 .card p {
   margin-bottom: 30px;
+  color: #636363;
 }
 
 .card:hover .container {
@@ -239,6 +240,9 @@ ul {
   padding: 2px 16px;
 }
 
+.mySlides {
+  display:none;
+}
 /*About*/
 
 @media (min-width: 768px){
