@@ -7,6 +7,8 @@ body {
   font-family: orpheuspro, serif;
   font-weight: 400;
   font-style: normal;
+  color: white;
+  background-color: black;
 }
 
 h1 {
@@ -28,7 +30,6 @@ p {
 
 .nav_bar {
   overflow: hidden;
-  background-color: #ffffff;
   position: fixed;
   top: 0;
   margin: auto;
@@ -36,7 +37,7 @@ p {
 }
 
 #mainbar {
-  background: linear-gradient(0deg, rgba(92,191,165,0) 20%, rgba(255,255,255,1) 100%);
+  /*background: linear-gradient(0deg, rgba(92,191,165,0) 20%, rgba(255,255,255,1) 100%);*/
 }
 
 .nav_bar a {
@@ -58,12 +59,12 @@ a {
 
 a:link {
   text-decoration: none;
-  color: #636363;
+  color: #ffffff;
 }
 
 a:visited {
   text-decoration: none;
-  color: #636363;
+  color: #ffffff;
 }
 
 a:hover {
