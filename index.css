@@ -23,7 +23,7 @@ body {
 .nav_bar a {
   float: right;
   display: block;
-  color: #000000;
+  color: #4C24EF;
   text-align: center;
   padding: 16px 16px;
 }
@@ -360,7 +360,7 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-  color: #9DCAD8;
+  color: #4C24EF;
 }
 
 .list li {
