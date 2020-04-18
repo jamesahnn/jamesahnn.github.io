@@ -124,6 +124,7 @@ h3 {
   font-size: 18px;
 }
 
+/*
 .icons {
   padding: 0;
   margin-top: 15px;
@@ -148,7 +149,7 @@ ul {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
-}
+}*/
 
 .subject {
   margin-top: 10vh;
@@ -326,13 +327,29 @@ ul {
   font-size: 20px;
   justify-content: space-between;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 50px;
+}
+
+.bottom_text {
+  text-align: center;
+  font-family: brandon-grotesque, sans-serif;
+  font-size: 22px;
+  color: #636363
 }
 
 .bottom h4 {
   margin-bottom: 0;
   font-weight: 400;
+}
+
+.icons {
+  display: flex;
+}
+
+.icons img {
+margin-left: 10px;
+margin-right: 10px;
 }
 
 .mail {
